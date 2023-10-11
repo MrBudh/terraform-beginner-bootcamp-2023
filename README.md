@@ -169,9 +169,9 @@ If it is successfull you should see a json payload return that look like this:
 
 ```json
 {
-    "UserId": "AIDAXPIDX2PF5PPTL6KXL",
-    "Account": "513793315909",
-    "Arn": "arn:aws:iam::513793315709:user/terraform-beginner-bootcamp"
+    "UserId": "E53434EXAMPLE",
+    "Account": "faf4EXAMPLE",
+    "Arn": "arn:aws:iam::EXAMPLE766:user/terraform-beginner-bootcamp"
 }
 
 ```
